@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <img alt="repo size" src="https://img.shields.io/github/repo-size/jbresolinn/weather-check-app?color=F3A42D">
-  <img alt="license" src="https://img.shields.io/github/license/jbresolinn/weather-check-app?color=F3A42D">
+  <img alt="repo size" src="https://img.shields.io/github/repo-size/gavishpoddar/weather-app?color=F3A42D">
+  <img alt="license" src="https://img.shields.io/github/license/gavishpoddar/weather-app?color=F3A42D">
 </p>
 
 <p align="center">
@@ -13,6 +13,14 @@
   <a href="#-run-project">Run project</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
+
+## <img src=".docs/label.svg" width="18px">&nbsp; Screenshots
+
+<p align="center">
+<img src=".docs/ss1.png" width="400px" > <img src=".docs/ss2.png" width="400px">
+</p>
+
+
 
 ## <img src=".docs/label.svg" width="18px">&nbsp; About
 
